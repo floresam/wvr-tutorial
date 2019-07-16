@@ -1,6 +1,6 @@
 # Integrating a Custom Watson Visual Recognition Model into an application
 ### Written by Michael Flores, IBM
-This tutorial will show you how to create a node.js application that uses a custom Watson Visual Recognition Model. We assume that you have already created a custom Watson Visual Recognition Model. You will need the `MODEL_ID` of your custom model.
+This tutorial will show you how to create a node.js application that uses a custom Watson Visual Recognition Model. We assume that you have already created a custom Watson Visual Recognition Model as shown in this [tutorial](https://developer.ibm.com/tutorials/detect-wildfire-damaged-homes-using-drone-images-watson-visual-recognition/). You will need the `MODEL_ID` of your custom model.
 
 1. Download this repository by using the git clone command in your terminal or git IDE of choice.  
 ```git clone https://github.com/floresam/wvr-tutorial.git```
