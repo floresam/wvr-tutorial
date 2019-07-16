@@ -1,0 +1,7 @@
+---
+applications:
+- name: visual-recognition-demo
+  path: .
+  random-route: true
+  command: npm start
+  memory: 768M
